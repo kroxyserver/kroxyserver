@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kroxyserver
-- 👀 I’m interested in ...
+- 👀 I’m interested in Creating and Playing Games
 - 🌱 I’m currently learning Unreal Engine for Game Development
 
 <!---
